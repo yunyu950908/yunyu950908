@@ -36,5 +36,5 @@ My name is **liyu**, Full-Stack Engineer at [@iftechio](https://github.com/iftec
 
 # Github Chart
 <div style="display: flex; gap: 3px;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yunyu950908&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true&hide=stars&card_width=200px"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yunyu950908&theme=vue-dark&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&card_width=400px&card_height=100px">
+  <img height="200px" src="https://github-readme-stats-yunyu950908.vercel.app/api?username=yunyu950908&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true&hide=stars&card_width=200px"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yunyu950908&theme=vue-dark&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&card_width=400px&card_height=100px">
 </div>
